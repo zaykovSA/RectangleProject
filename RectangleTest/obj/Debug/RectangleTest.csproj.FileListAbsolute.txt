@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2013\Projects\RectangleProject\RectangleTest\bin\Debug\RectangleTest.dll
+c:\users\administrator\documents\visual studio 2013\Projects\RectangleProject\RectangleTest\bin\Debug\RectangleTest.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\RectangleProject\RectangleTest\bin\Debug\RectangleProject.dll
+c:\users\administrator\documents\visual studio 2013\Projects\RectangleProject\RectangleTest\bin\Debug\RectangleProject.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\RectangleProject\RectangleTest\obj\Debug\RectangleTest.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\RectangleProject\RectangleTest\obj\Debug\RectangleTest.dll
+c:\users\administrator\documents\visual studio 2013\Projects\RectangleProject\RectangleTest\obj\Debug\RectangleTest.pdb

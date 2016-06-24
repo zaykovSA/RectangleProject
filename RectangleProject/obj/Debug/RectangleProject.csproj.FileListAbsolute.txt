@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2013\Projects\RectangleProject\RectangleProject\bin\Debug\RectangleProject.dll
+c:\users\administrator\documents\visual studio 2013\Projects\RectangleProject\RectangleProject\bin\Debug\RectangleProject.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\RectangleProject\RectangleProject\obj\Debug\RectangleProject.dll
+c:\users\administrator\documents\visual studio 2013\Projects\RectangleProject\RectangleProject\obj\Debug\RectangleProject.pdb
